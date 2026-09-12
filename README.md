@@ -1,4 +1,11 @@
-# DNS SOCKS Proxy (dns-proxy)
+# Unmaintained Project
+
+This project has been superseeded both in featureset and preservation of privacy by
+the [dnsquery](https://cookie.engineer/projects/cyber-security/dnsquery.html) project
+which features a DNS client, a DNS server, and a DNS SOCKS proxy whilst using a ronin
+mechanism to resolve questions via upstream DNS-over-HTTPS or DNS-over-TLS queries.
+
+## DNS SOCKS Proxy (dns-proxy)
 
 This is a downstream fork of [jtripper/dns-tcp-socks-proxy](https://github.com/jtripper/dns-tcp-socks-proxy)
 and tries to keep this project maintained and the [package on AUR](https://aur.archlinux.org/packages/dns-proxy-git)
